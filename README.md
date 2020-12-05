@@ -15,5 +15,7 @@ The purpose of this project was to efficiently sift through a large amount of vo
 - Diana DeGette resulted with 73.8% of the total vote and was calculated to have received 272,892 votes.
 - Charles Casper Stockham received 85,213 votes (23.0%) and Raymon Anthony Doane received 11,606 votes (3.1%).
 
+![Election Results](https://user-images.githubusercontent.com/73874291/101267798-dc01a880-3711-11eb-8e24-62cd3ee23b99.png)
+
 ### Election Commission Statement
 The election statement code that was used to calculate these results could be easily used in larger elections and other similar contests. Executed correctly, the code supplies an efficient way to sift through the thousands of votes received. What is great about this code is if it was required to pinpoint even more specifics of the election, it could be done. If the data is present, filtering down to city or even district could be calculated. This could provide additional demographic statistics on voters. 
